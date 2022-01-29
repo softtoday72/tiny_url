@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "originUrl": "https://www.google.com.tw/",
+      "shorten": "12345"
+    },
+    {
+      "originUrl": "https://www.facebook.com/",
+      "shorten": "x5l30"
+    },
+    {
+      "originUrl": "https://www.codewars.com/",
+      "shorten": "4j6ul"
+    },
+    {
+      "originUrl": "https://www.youtube.com//",
+      "shorten": "38jw0"
+    },
+    {
+      "originUrl": "https://www.twitch.tv/",
+      "shorten": "3i8ur"
+    }
+  ]
+}
